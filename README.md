@@ -23,7 +23,7 @@ This also allows you to:
 
 👉 To create your own Zome, simply use the online application:
 
-<b>[https://florianwns.github.io/z5omes/](https://florianwns.github.io/z5omes/)</b>
+<b>[https://OrangeJuce82.github.io/z5omes/](https://OrangeJuce82.github.io/z5omes/)</b>
 
 <br>
 <p align="center">
@@ -83,7 +83,7 @@ I hope this app will help zome lovers to build their dream cabin/house. 🏠
 
 Have fun and don't hesitate to share the creation of your Zome.<br>
 And if you have any requests/questions, see any bugs, ✍ feel free to write
-an [issue](https://github.com/florianwns/z5omes/issues/new) inside GitHub.
+an [issue](https://github.com/OrangeJuce82/z5omes/issues/new) inside GitHub.
 
 🌟
 
@@ -186,12 +186,12 @@ then export the mesh in the format of your choice.
         <img src="/img/designed_with/20240427_by_andre_dengin_3.jpg" width="100" height="100">
     </td>
     <td valign="middle">
-        <a href="https://florianwns.github.io/z5omes/?q=eyJudW1fc3BpcmFscyI6OCwidGhldGFfZGVnIjo2OC4wNCwiYW5nbGVfdW5pdCI6ImRlZyIsInVzZV9ocl9tb2RlIjpmYWxzZSwiaGVpZ2h0X3JhdGlvIjowLjM3NSwia2l0ZV9yYXRpbyI6MSwibWVhc3VyaW5nX3VuaXQiOiJtbSIsInpvbWVfaGVpZ2h0X2luX21tIjo1MDAsInRpbWJlcl93aWR0aF9pbl9tbSI6MjUsInRpbWJlcl90aGlja25lc3NfaW5fbW0iOjI1LCJ6X3ZhbmlzaGluZ19wb2ludF9pbl9tbSI6LTYxOC42NjY2NjY3LCJhc3NlbWJseV9tZXRob2QiOjEsImFzc2VtYmx5X2RpcmVjdGlvbiI6MCwieHBhbnNpb25fZGlyZWN0aW9uIjoxLCJhZGRfZm9vdGluZyI6MSwicm9vZl9vdmVyZmxvd19pbl9tbSI6MCwiZmFjZV9kaXZpc2lvbnNfYnlfY3Jvd25zX3N0ciI6IjAsMCwwIiwiYmluZHVfcmF0aW9zX3N0ciI6IjEsMSwxIiwibGFuZ3VhZ2UiOiJlbiIsImhlbHBfaXNfZGlzcGxheWVkIjpmYWxzZX0%3D">
+        <a href="https://OrangeJuce82.github.io/z5omes/?q=eyJudW1fc3BpcmFscyI6OCwidGhldGFfZGVnIjo2OC4wNCwiYW5nbGVfdW5pdCI6ImRlZyIsInVzZV9ocl9tb2RlIjpmYWxzZSwiaGVpZ2h0X3JhdGlvIjowLjM3NSwia2l0ZV9yYXRpbyI6MSwibWVhc3VyaW5nX3VuaXQiOiJtbSIsInpvbWVfaGVpZ2h0X2luX21tIjo1MDAsInRpbWJlcl93aWR0aF9pbl9tbSI6MjUsInRpbWJlcl90aGlja25lc3NfaW5fbW0iOjI1LCJ6X3ZhbmlzaGluZ19wb2ludF9pbl9tbSI6LTYxOC42NjY2NjY3LCJhc3NlbWJseV9tZXRob2QiOjEsImFzc2VtYmx5X2RpcmVjdGlvbiI6MCwieHBhbnNpb25fZGlyZWN0aW9uIjoxLCJhZGRfZm9vdGluZyI6MSwicm9vZl9vdmVyZmxvd19pbl9tbSI6MCwiZmFjZV9kaXZpc2lvbnNfYnlfY3Jvd25zX3N0ciI6IjAsMCwwIiwiYmluZHVfcmF0aW9zX3N0ciI6IjEsMSwxIiwibGFuZ3VhZ2UiOiJlbiIsImhlbHBfaXNfZGlzcGxheWVkIjpmYWxzZX0%3D">
             <img src="/img/designed_with/20240515_by_andre_dengin_4.jpg" width="100" height="100">
         </a>
     </td>
     <td valign="middle">
-        <a href="https://florianwns.github.io/z5omes/?q=eyJudW1fc3BpcmFscyI6OCwidGhldGFfZGVnIjo2OC4wNCwiYW5nbGVfdW5pdCI6ImRlZyIsInVzZV9ocl9tb2RlIjpmYWxzZSwiaGVpZ2h0X3JhdGlvIjowLjM3NSwia2l0ZV9yYXRpbyI6MSwibWVhc3VyaW5nX3VuaXQiOiJtbSIsInpvbWVfaGVpZ2h0X2luX21tIjo1MDAsInRpbWJlcl93aWR0aF9pbl9tbSI6MjUsInRpbWJlcl90aGlja25lc3NfaW5fbW0iOjI1LCJ6X3ZhbmlzaGluZ19wb2ludF9pbl9tbSI6LTYxOC42NjY2NjY3LCJhc3NlbWJseV9tZXRob2QiOjEsImFzc2VtYmx5X2RpcmVjdGlvbiI6MCwieHBhbnNpb25fZGlyZWN0aW9uIjoxLCJhZGRfZm9vdGluZyI6MSwicm9vZl9vdmVyZmxvd19pbl9tbSI6MCwiZmFjZV9kaXZpc2lvbnNfYnlfY3Jvd25zX3N0ciI6IjAsMCwwIiwiYmluZHVfcmF0aW9zX3N0ciI6IjEsMSwxIiwibGFuZ3VhZ2UiOiJlbiIsImhlbHBfaXNfZGlzcGxheWVkIjpmYWxzZX0%3D">
+        <a href="https://OrangeJuce82.github.io/z5omes/?q=eyJudW1fc3BpcmFscyI6OCwidGhldGFfZGVnIjo2OC4wNCwiYW5nbGVfdW5pdCI6ImRlZyIsInVzZV9ocl9tb2RlIjpmYWxzZSwiaGVpZ2h0X3JhdGlvIjowLjM3NSwia2l0ZV9yYXRpbyI6MSwibWVhc3VyaW5nX3VuaXQiOiJtbSIsInpvbWVfaGVpZ2h0X2luX21tIjo1MDAsInRpbWJlcl93aWR0aF9pbl9tbSI6MjUsInRpbWJlcl90aGlja25lc3NfaW5fbW0iOjI1LCJ6X3ZhbmlzaGluZ19wb2ludF9pbl9tbSI6LTYxOC42NjY2NjY3LCJhc3NlbWJseV9tZXRob2QiOjEsImFzc2VtYmx5X2RpcmVjdGlvbiI6MCwieHBhbnNpb25fZGlyZWN0aW9uIjoxLCJhZGRfZm9vdGluZyI6MSwicm9vZl9vdmVyZmxvd19pbl9tbSI6MCwiZmFjZV9kaXZpc2lvbnNfYnlfY3Jvd25zX3N0ciI6IjAsMCwwIiwiYmluZHVfcmF0aW9zX3N0ciI6IjEsMSwxIiwibGFuZ3VhZ2UiOiJlbiIsImhlbHBfaXNfZGlzcGxheWVkIjpmYWxzZX0%3D">
             <img src="/img/designed_with/20240515_by_andre_dengin_5.jpg" width="100" height="100">
         </a>
     </td>
