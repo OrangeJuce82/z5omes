@@ -23,7 +23,7 @@ This also allows you to:
 
 👉 To create your own Zome, simply use the online application:
 
-<b>[https://OrangeJuce82.github.io/z5omes/](https://OrangeJuce82.github.io/z5omes/)</b>
+<b>[https://orangejuce82.github.io/z5omes/](https://orangejuce82.github.io/z5omes/)</b>
 
 <br>
 <p align="center">
